@@ -13,7 +13,7 @@ related:
     url: http://cheng.logdown.com/posts/2016/03/25/679045
 ---
 
-This option controls if and how source maps are generated.
+T该选项控制是否生成资源映射以及如何生成资源映射。
 
 Use the [`SourceMapDevToolPlugin`](/plugins/source-map-dev-tool-plugin) for a more fine grained configuration. See the [`source-map-loader`](/loaders/source-map-loader) to deal with existing source maps.
 
